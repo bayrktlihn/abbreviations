@@ -1,0 +1,13 @@
+API=Application Programming Interface
+RAM=Random Access Memory
+REST=Representational State Transfer
+CPU=Central Processing Unit
+HTML=Hyper Text Markup Language
+XML=Extensible Markup Language
+PNG=Portable Network Graphics
+YAML=YAML Ain't Markup Language
+GNU=GNU's Not Unix
+HTTP=Hyper Text Transfer Protocol
+HTTPS=Hyper Text Transfer Protocol Secure
+FTP=File Transfer Protocol
+SSL=Secure Sockets Layer
